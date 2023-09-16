@@ -4,7 +4,7 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 
 ## Quem eu sou?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/rodrigo-yuji-kuroda/](https://www.linkedin.com/in/ulysses-alves-8898b4177)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/rodrigo-yuji-kuroda/](https://www.linkedin.com/in/ulysses-alves-8898b4177))
 
 ## O que eu sei?
 
