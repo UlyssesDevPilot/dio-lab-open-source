@@ -1,6 +1,6 @@
 # Ulysses Lago Alves
 
-Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que passa! É um prazer estar aqui com vocês!
+Olá,sou um estudante de tecnologia, gosto de desenvolver jogos, saites e programas
 
 ## Quem eu sou?
 
