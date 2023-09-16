@@ -17,7 +17,7 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 
 ## Game
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
+![JavaScript]([https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript](https://pfn-ipns-ulyssesdevpilot.vercel.app/assets/gato.png)) 
 
  https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG
 
