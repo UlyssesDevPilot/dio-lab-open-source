@@ -17,6 +17,9 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 
 ## Game
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)]([https://www.linkedin.com/in/rodrigo-yuji-kuroda/](https://www.linkedin.com/in/ulysses-alves-8898b4177)](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG))
+
+
 ![JavaScript](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG)
 
  https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG
