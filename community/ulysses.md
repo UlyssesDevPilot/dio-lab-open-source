@@ -19,9 +19,7 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) 
 
- 
-
-[![CatPilot]([https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript](https://pfn-ipns-ulyssesdevpilot.vercel.app/assets/gato.png))]([[https://www.linkedin.com/in/rodrigo-yuji-kuroda/](https://www.linkedin.com/in/ulysses-alves-8898b4177)](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG)](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG))
+ https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG
 
 ## O que eu quero aprender
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
