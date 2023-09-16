@@ -19,6 +19,8 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG)
 
+![HTML5]([https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5](https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG))
+
  https://editor.p5js.org/UlyssesCn5/full/Ny_IlPkWG
 
 ## O que eu quero aprender
