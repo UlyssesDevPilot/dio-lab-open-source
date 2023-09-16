@@ -26,6 +26,7 @@ Olá,sou um simples desenvolvedor aprendendo um pouquinho mais a cada dia que pa
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![SQL](https://img.shields.io/badge/SQL-orange)
 
 ___
 _Last updated on 16/09/2023_
